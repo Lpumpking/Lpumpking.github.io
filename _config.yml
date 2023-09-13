@@ -1,7 +1,7 @@
 # Site settings
 title: LN Blog
 SEOTitle: 牛立南的博客 | LN Blog
-header-img: home-bg-o.jpg
+header-img: _img/夏天的南极企鹅.png
 email: 844277369@qq.com
 description: "xxx."
 keyword: "LN, LN Blog, 牛立南的博客, lpumpking"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lpumpking/lpumpking.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "xxx."
-sidebar-avatar: img/maxhaha.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: _img/maxhaha.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
