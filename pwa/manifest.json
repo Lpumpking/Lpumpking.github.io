@@ -3,11 +3,11 @@
   "short_name": "LN Blog",
   "description": "A personal blog by financier",
   "icons": [{
-    "src": "icons/blog-icon.jpg",
+    "src": "icons/blog-icon-128.jpg",
     "sizes": "128x128",
     "type": "image/jpg"
   }, {
-    "src": "icons/blog-icon.jpg",
+    "src": "icons/blog-icon-512.jpg",
     "sizes": "512x512",
     "type": "image/jpg"
   }],
